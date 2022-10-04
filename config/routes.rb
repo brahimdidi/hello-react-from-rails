@@ -7,6 +7,6 @@ Rails.application.routes.draw do
   # root "articles#index"
 
   namespace :api do
-      resources :messages
+    resources :messages
   end
 end
