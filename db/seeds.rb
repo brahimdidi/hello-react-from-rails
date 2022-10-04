@@ -5,8 +5,8 @@
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
 
-Message.create(greeting: 'namaste');
-Message.create(greeting: 'Salam');
-Message.create(greeting: 'bonjour');
-Message.create(greeting: 'bonjorno');
-Message.create(greeting: 'sayonara');
+Message.create(greeting: 'namaste')
+Message.create(greeting: 'Salam')
+Message.create(greeting: 'bonjour')
+Message.create(greeting: 'bonjorno')
+Message.create(greeting: 'sayonara')
