@@ -4,4 +4,9 @@
 # Examples:
 #
 #   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
-#   Character.create(name: "Luke", movie: movies.first)
+
+Message.create(greeting: 'namaste');
+Message.create(greeting: 'Salam');
+Message.create(greeting: 'bonjour');
+Message.create(greeting: 'bonjorno');
+Message.create(greeting: 'sayonara');
