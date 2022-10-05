@@ -96,7 +96,6 @@ IDE(VSCode etc.), WSL(for Windows OS), for linters RuboCop
 👤 **Ahmad Zamir Yousufi** <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="20"/>
 
 - GitHub: [@brahimdidi](https://github.com/brahimdidi).
-- Twitter: [@YousufiZamir](https://twitter.com/YousufiZamir)
 - LinkedIn: [ahmad-zamir-yousufi](https://www.linkedin.com/in/brahimdidi/)
 
 ## 🤝 Contributing
