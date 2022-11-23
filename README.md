@@ -24,11 +24,11 @@ $ https://github.com/brahimdidi/hello-rails-react.git
 3- Open the command prompt in this directory. <br>
 4- Write 
 ```
-$ git clone https://github.com/brahimdidi/hello-rails-react.git
+$ git clone  git clone https://github.com/brahimdidi/hello-react-from-rails
 ```
 5- Go to the repository folder in your command prompt:
 ```
-$ cd hello-rails-react
+$ cd  hello-react-from-rails
 ```
 6- You might need to install bundles with:
 ```
