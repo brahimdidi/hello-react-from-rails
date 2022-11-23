@@ -1,4 +1,4 @@
-const apiUrl = "http://localhost:3000/api/greetings";
+const apiUrl = "http://localhost:3000/api//messages";
 
 const GREET_RANDOM = "/greeting/GREET_RANDOM";
 
